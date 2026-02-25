@@ -1,0 +1,10 @@
+
+a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Âªí4
+Q	java:S125"<This block of commented-out lines of code should be removed.(¥²ŽÁ
+V	java:S125
+"<This block of commented-out lines of code should be removed.(È¼Æ˜øÿÿÿÿ
+_
+java:S3358"DExtract this nested ternary operation into an independent statement.(Ñ—ëÊýÿÿÿÿ
+_
+java:S3358"DExtract this nested ternary operation into an independent statement.(ä³Úàøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(³ÌË”ýÿÿÿÿ
