@@ -3,3 +3,17 @@ U
 %src/main/java/org/example/Demo_1.java,9\c\9cd0042c6a67cebffd4d68b73a16c5530c7111f8
 _
 /src/main/java/org/example/Ternary_Operator.java,c\5\c5776880ab675cf0a443a0fb99d9ccbe34a2a74c
+]
+-src/main/java/loops_demopkg/ForEach_demo.java,7\b\7b05d59485de59f2a9f265db0def7f483bee9d46
+a
+1src/main/java/jumpingstatements/BreakExample.java,3\1\31d8bfbc276dfa13f827b9e3fed24599c167e213
+d
+4src/main/java/jumpingstatements/ContinueExample.java,6\6\66df9c3e5c079d96459e9e9923554a63a533c3c6
+b
+2src/main/java/jumpingstatements/ReturnExample.java,5\9\59feaa5a84f9fbf160c21f72257340949c01d4fc
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+U
+%src/main/java/day1/OperatorsDemo.java,2\3\23fc7174af1472bcfb9379f6483274d244e203d0
+_
+/src/main/java/conditionalstatement/If_Demo.java,e\8\e8d148cbac24a987aa62d665c48256e3ce56b5bf
